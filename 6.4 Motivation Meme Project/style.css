@@ -1,0 +1,20 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+.text {
+   text-align: center;
+   font-size: 2rem;
+
+}
+
+.poster {
+    align-items: center;
+    margin left: 25%;
+    margin-top: 100px;
+    t
+}
+.image {
+    border: white 3px solid;
+}
